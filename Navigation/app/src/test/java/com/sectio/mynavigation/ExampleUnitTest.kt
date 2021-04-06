@@ -1,4 +1,4 @@
-package com.sectio.mynavigation
+package com.haykal.mynavigation
 
 import org.junit.Test
 
